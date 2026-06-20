@@ -1,7 +1,8 @@
-# 🌿 Mire
+<p align="center">
+  <img src="./github-banner.png" alt="Mire Patel Banner" width="100%" style="border-radius: 8px;" />
+</p>
 
-### Design × Development
-
+<br />
 .˚⊹₊⟡⋆
 
 Building thoughtful digital experiences where design leads and code brings them to life.
