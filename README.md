@@ -7,9 +7,9 @@
 
 Building thoughtful digital experiences where design leads and code brings them to life.
 
----
-
-## ✦ About
+<p>
+  <img src="./assets/images/About.png" alt="About" width="100%" />
+</p>
 
 Hey, I'm Mire (pronounced Mee-ray).  
 
@@ -19,9 +19,9 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 
 ₊⊹
 
----
-
-## ✦ Currently
+<p>
+  <img src="./assets/images/Currently.png" alt="About" width="100%" />
+</p>
 
 🌱 Learning Full Stack Development  
 🌱 Building personal projects  
@@ -30,9 +30,9 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 
 ₊⊹
 
----
-
-## ✦ Tech
+<p>
+  <img src="./assets/images/Tech.png" alt="About" width="100%" />
+</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat&logo=javascript&logoColor=white&labelColor=0f172a) •
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript&logoColor=white&labelColor=0f172a) •
@@ -54,9 +54,9 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 -->
 ₊⊹
 
----
-
-## ✦ Beyond
+<p>
+  <img src="./assets/images/Beyond.png" alt="About" width="100%" />
+</p>
 
 🍀 Music that builds focus  
 🍀 Nature for clarity  
@@ -65,9 +65,9 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 
 ₊⊹
 
----
-
-## ✦ Connect
+<p>
+  <img src="./assets/images/Connect.png" alt="About" width="100%" />
+</p>
 
 [LinkedIn](https://www.linkedin.com/in/mirepatel) • [Portfolio](https://mirepatel.framer.website/) • [Email](mailto:mirepatel@gmail.com)
 
