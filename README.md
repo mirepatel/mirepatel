@@ -83,8 +83,45 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 🌱 Growing through continuous practice
 
 ₊⊹
+<p>
+  <img src="./assets/images/Tech.png" alt="Tech" width="100%" />
+</p>
 
 <p>
+  <img src="./assets/badges/languages.png" height="32px" alt="LANGUAGES" />&nbsp;
+  <img src="./assets/badges/languages/typescript.png" height="32px" alt="TypeScript" />&nbsp;
+  <img src="./assets/badges/languages/javascript.png" height="32px" alt="JavaScript" />&nbsp;
+  <img src="./assets/badges/languages/html.png" height="32px" alt="HTML" />&nbsp;
+  <img src="./assets/badges/languages/css.png" height="32px" alt="CSS" />
+  <img src="./assets/badges/languages/python.png" height="32px" alt="Python" />&nbsp;
+</p>
+
+<p>
+  <img src="./assets/badges/frameworks.png" height="32px" alt="FRAMEWORKS" />&nbsp;
+  <img src="./assets/badges/frameworks/react.png" height="32px" alt="React" />&nbsp;
+  <img src="./assets/badges/frameworks/nextjs.png" height="32px" alt="Next.js" />&nbsp;
+  <img src="./assets/badges/frameworks/nodejs.png" height="32px" alt="Node.js" />
+</p>
+
+<p>
+  <img src="./assets/badges/ux&design.png" height="32px" alt="UX & DESIGN" />&nbsp;
+  <img src="./assets/badges/ux&design/ui-design.png" height="32px" alt="UI Design" />&nbsp;
+  <img src="./assets/badges/ux&design/ux-design.png" height="32px" alt="UX Design" />&nbsp;
+  <img src="./assets/badges/ux&design/wireframing.png" height="32px" alt="Wireframing" />&nbsp;
+  <img src="./assets/badges/ux&design/interaction-design.png" height="32px" alt="Interaction Design" />&nbsp;
+  <img src="./assets/badges/ux&design/prototyping.png" height="32px" alt="Prototyping" />&nbsp;
+  <img src="./assets/badges/ux&design/design-systems.png" height="32px" alt="Design Systems" />
+</p>
+
+<p>
+  <img src="./assets/badges/tools.png" height="32px" alt="TOOLS" />&nbsp;
+  <img src="./assets/badges/tools/figma.png" height="32px" alt="Figma" />&nbsp;
+  <img src="./assets/badges/tools/framer.png" height="32px" alt="Framer" />&nbsp;
+  <img src="./assets/badges/tools/git.png" height="32px" alt="Git" />&nbsp;
+  <img src="./assets/badges/tools/notion.png" height="32px" alt="Notion" />
+</p>
+
+<!-- <p>
   <img src="./assets/images/Tech.png" alt="Tech" width="100%" />
 </p>
 
@@ -97,7 +134,7 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat&logo=git&logoColor=white&labelColor=0f172a)
 <br/>
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=flat&logo=figma&logoColor=white&labelColor=0f172a) •
-![UI/UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=flat&logo=figma&logoColor=white&labelColor=0f172a)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=flat&logo=figma&logoColor=white&labelColor=0f172a) -->
 
 <!-- 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4fae11?style=flat&logo=javascript&logoColor=white&logoWidth=20&labelColor=4fae11&padding=10) • ![TypeScript](https://img.shields.io/badge/TypeScript-4fae11?style=flat&logo=typescript&logoColor=white&logoWidth=20&labelColor=4fae11&padding=10) • ![React](https://img.shields.io/badge/React-4fae11?style=flat&logo=react&logoColor=white&logoWidth=20&labelColor=4fae11&padding=10)
