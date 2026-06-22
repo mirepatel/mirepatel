@@ -2,10 +2,58 @@
   <img src="./assets/banner/github-banner.png" alt="Mire Patel Banner" width="100%" />
 </p>
 
-<br />
-.˚⊹₊⟡⋆
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; border-spacing: 0; max-width: 1280px;">
+  <tr style="border: none;">
+    <td width="69.375%" style="border: none; padding: 0; vertical-align: top;">
+      <img src="./assets/images/Intro.png" width="100%" alt="Intro text" style="display: block;" />
+    </td>
+    <td width="32" style="border: none; padding: 0; width: 32px;"></td>
+    <td width="28.125%" style="border: none; padding: 0; vertical-align: top;">
+      <img src="./assets/images/GitHubOctocat.gif" width="100%" alt="Mona Octocat animation" 
+           style="
+             display: block;
+             box-sizing: border-box;
+             background: #0d1117; 
+             border-radius: 16px; 
+             border-top: 1px solid rgba(255, 255, 255, 0.2); 
+             border-bottom: 1px solid rgba(255, 255, 255, 0.1); 
+             border-left: none;
+             border-right: none;
+             margin-top: -1px;
+             margin-bottom: -1px;
+             box-shadow: inset 0px 1px 20px rgba(255, 255, 255, 0.05);
+           " />
+    </td>
+  </tr>
+</table>
+<!-- <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; border-spacing: 0; max-width: 1280px;">
+  <tr style="border: none;">
+    <td width="69.375%" style="border: none; padding: 0; vertical-align: top;">
+      <img src="./assets/images/Intro.png" width="100%" alt="Intro text" style="display: block;" />
+    </td>
+    <td width="32" style="border: none; padding: 0; width: 32px;"></td>
+    <td width="28.125%" style="border: none; padding: 0; vertical-align: top;">
+      <img src="./assets/images/GitHubOctocat.gif" width="100%" alt="Mona Octocat animation" 
+           style="
+             display: block;
+             box-sizing: border-box;
+             background: #0d1117; 
+             border-radius: 16px; 
+             border-top: 1px solid rgba(255, 255, 255, 0.2); 
+             border-bottom: 1px solid rgba(255, 255, 255, 0.1); 
+             border-left: none;
+             border-right: none;
+             box-shadow: inset 0px 1px 20px rgba(255, 255, 255, 0.05);
+           " />
+    </td>
+  </tr>
+</table> -->
 
-Building thoughtful digital experiences where design leads and code brings them to life.
+<!-- <p>
+  <img src="./assets/images/Intro.svg" alt="Intro" width="100%" />
+</p> -->
+
+</br>
 
 <p>
   <img src="./assets/images/About.png" alt="About" width="100%" />
@@ -20,7 +68,7 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 ₊⊹
 
 <p>
-  <img src="./assets/images/Currently.png" alt="About" width="100%" />
+  <img src="./assets/images/Currently.png" alt="Currently" width="100%" />
 </p>
 
 🌱 Learning Full Stack Development  
@@ -31,7 +79,7 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 ₊⊹
 
 <p>
-  <img src="./assets/images/Tech.png" alt="About" width="100%" />
+  <img src="./assets/images/Tech.png" alt="Tech" width="100%" />
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat&logo=javascript&logoColor=white&labelColor=0f172a) •
@@ -55,7 +103,7 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 ₊⊹
 
 <p>
-  <img src="./assets/images/Beyond.png" alt="About" width="100%" />
+  <img src="./assets/images/Beyond.png" alt="Beyond" width="100%" />
 </p>
 
 🍀 Music that builds focus  
@@ -66,7 +114,7 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 ₊⊹
 
 <p>
-  <img src="./assets/images/Connect.png" alt="About" width="100%" />
+  <img src="./assets/images/Connect.png" alt="Connect" width="100%" />
 </p>
 
 [LinkedIn](https://www.linkedin.com/in/mirepatel) • [Portfolio](https://mirepatel.framer.website/) • [Email](mailto:mirepatel@gmail.com)
