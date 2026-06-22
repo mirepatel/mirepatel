@@ -2,7 +2,13 @@
   <img src="./assets/banner/github-banner.png" alt="Mire Patel Banner" width="100%" />
 </p>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; border-spacing: 0; max-width: 1280px;">
+<p float="left">
+  <img src="./assets/images/Intro.png" width="69.375%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/images/GitHubOctocat.gif" width="28.125%" alt="Mona Octocat animation" />
+</p>
+
+<!-- <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; border-spacing: 0; max-width: 1280px;">
   <tr style="border: none;">
     <td width="69.375%" style="border: none; padding: 0; vertical-align: top;">
       <img src="./assets/images/Intro.png" width="100%" alt="Intro text" style="display: block;" />
@@ -25,7 +31,7 @@
            " />
     </td>
   </tr>
-</table>
+</table> -->
 <!-- <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; border-spacing: 0; max-width: 1280px;">
   <tr style="border: none;">
     <td width="69.375%" style="border: none; padding: 0; vertical-align: top;">
