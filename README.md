@@ -4,7 +4,7 @@
 
 <p float="left">
   <img src="./assets/images/Intro.png" width="69.375%" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="./assets/images/GitHubOctocat.gif" width="28.125%" alt="Mona Octocat animation" />
 </p>
 
@@ -78,8 +78,11 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 </p>
 
 🌱 Learning Full Stack Development  
+
 🌱 Building personal projects  
+
 🌱 Exploring Machine Learning  
+
 🌱 Growing through continuous practice
 
 ₊⊹
@@ -150,8 +153,11 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 </p>
 
 🍀 Music that builds focus  
+
 🍀 Nature for clarity  
+
 🍀 Solving quietly  
+
 🍀 Design as expression
 
 ₊⊹
