@@ -156,12 +156,20 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 
 ₊⊹
 
+<!-- <p>
+  <img src="./assets/images/Connect.png" alt="Connect" width="100%" />
+</p>
+
+[LinkedIn](https://www.linkedin.com/in/mirepatel) • [Portfolio](https://mirepatel.framer.website/) • [Email](mailto:mirepatel@gmail.com) -->
 <p>
   <img src="./assets/images/Connect.png" alt="Connect" width="100%" />
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/mirepatel) • [Portfolio](https://mirepatel.framer.website/) • [Email](mailto:mirepatel@gmail.com)
-
+<p>
+  <a href="https://www.linkedin.com/in/mirepatel" target="_blank"><img src="./assets/badges/connect/linkedin.png" height="32px" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://mirepatel.framer.website/" target="_blank"><img src="./assets/badges/connect/portfolio.png" height="32px" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:mirepatel@gmail.com"><img src="./assets/badges/connect/email.png" height="32px" alt="Email" /></a>
+</p>
 
 ---
 
