@@ -4,7 +4,6 @@
 
 <p float="left">
   <img src="./assets/images/Intro.png" width="69.375%" />
-  &nbsp;
   <img src="./assets/images/GitHubOctocat.gif" width="28.125%" alt="Mona Octocat animation" />
 </p>
 
