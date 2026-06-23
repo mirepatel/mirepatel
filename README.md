@@ -88,37 +88,37 @@ I enjoy shaping ideas into experiences that feel intuitive, meaningful, and visu
 </p>
 
 <p>
-  <img src="./assets/badges/languages.png" height="32px" alt="LANGUAGES" />&nbsp;
-  <img src="./assets/badges/languages/typescript.png" height="32px" alt="TypeScript" />&nbsp;
-  <img src="./assets/badges/languages/javascript.png" height="32px" alt="JavaScript" />&nbsp;
-  <img src="./assets/badges/languages/html.png" height="32px" alt="HTML" />&nbsp;
-  <img src="./assets/badges/languages/css.png" height="32px" alt="CSS" />
-  <img src="./assets/badges/languages/python.png" height="32px" alt="Python" />&nbsp;
+  <img src="./assets/badges/languages.png" height="30px" alt="LANGUAGES" />&nbsp;
+  <img src="./assets/badges/languages/typescript.png" height="30px" alt="TypeScript" />&nbsp;
+  <img src="./assets/badges/languages/javascript.png" height="30px" alt="JavaScript" />&nbsp;
+  <img src="./assets/badges/languages/html.png" height="30px" alt="HTML" />&nbsp;
+  <img src="./assets/badges/languages/css.png" height="30px" alt="CSS" />&nbsp;
+  <img src="./assets/badges/languages/python.png" height="30px" alt="Python" />
 </p>
 
 <p>
-  <img src="./assets/badges/frameworks.png" height="32px" alt="FRAMEWORKS" />&nbsp;
-  <img src="./assets/badges/frameworks/react.png" height="32px" alt="React" />&nbsp;
-  <img src="./assets/badges/frameworks/nextjs.png" height="32px" alt="Next.js" />&nbsp;
-  <img src="./assets/badges/frameworks/nodejs.png" height="32px" alt="Node.js" />
+  <img src="./assets/badges/frameworks.png" height="30px" alt="FRAMEWORKS" />&nbsp;
+  <img src="./assets/badges/frameworks/react.png" height="30px" alt="React" />&nbsp;
+  <img src="./assets/badges/frameworks/nextjs.png" height="30px" alt="Next.js" />&nbsp;
+  <img src="./assets/badges/frameworks/nodejs.png" height="30px" alt="Node.js" />
 </p>
 
 <p>
-  <img src="./assets/badges/ux&design.png" height="32px" alt="UX & DESIGN" />&nbsp;
-  <img src="./assets/badges/ux&design/ui-design.png" height="32px" alt="UI Design" />&nbsp;
-  <img src="./assets/badges/ux&design/ux-design.png" height="32px" alt="UX Design" />&nbsp;
-  <img src="./assets/badges/ux&design/wireframing.png" height="32px" alt="Wireframing" />&nbsp;
-  <img src="./assets/badges/ux&design/interaction-design.png" height="32px" alt="Interaction Design" />&nbsp;
-  <img src="./assets/badges/ux&design/prototyping.png" height="32px" alt="Prototyping" />&nbsp;
-  <img src="./assets/badges/ux&design/design-systems.png" height="32px" alt="Design Systems" />
+  <img src="./assets/badges/ux&design.png" height="30px" alt="UX & DESIGN" />&nbsp;
+  <img src="./assets/badges/ux&design/ui-design.png" height="30px" alt="UI Design" />&nbsp;
+  <img src="./assets/badges/ux&design/ux-design.png" height="30px" alt="UX Design" />&nbsp;
+  <img src="./assets/badges/ux&design/wireframing.png" height="30px" alt="Wireframing" />&nbsp;
+  <img src="./assets/badges/ux&design/interaction-design.png" height="30px" alt="Interaction Design" />&nbsp;
+  <img src="./assets/badges/ux&design/prototyping.png" height="30px" alt="Prototyping" />&nbsp;
+  <img src="./assets/badges/ux&design/design-systems.png" height="30px" alt="Design Systems" />
 </p>
 
 <p>
-  <img src="./assets/badges/tools.png" height="32px" alt="TOOLS" />&nbsp;
-  <img src="./assets/badges/tools/figma.png" height="32px" alt="Figma" />&nbsp;
-  <img src="./assets/badges/tools/framer.png" height="32px" alt="Framer" />&nbsp;
-  <img src="./assets/badges/tools/git.png" height="32px" alt="Git" />&nbsp;
-  <img src="./assets/badges/tools/notion.png" height="32px" alt="Notion" />
+  <img src="./assets/badges/tools.png" height="30px" alt="TOOLS" />&nbsp;
+  <img src="./assets/badges/tools/figma.png" height="30px" alt="Figma" />&nbsp;
+  <img src="./assets/badges/tools/framer.png" height="30px" alt="Framer" />&nbsp;
+  <img src="./assets/badges/tools/git.png" height="30px" alt="Git" />&nbsp;
+  <img src="./assets/badges/tools/notion.png" height="30px" alt="Notion" />
 </p>
 
 <!-- <p>
