@@ -59,8 +59,6 @@
   <img src="./assets/images/Intro.svg" alt="Intro" width="100%" />
 </p> -->
 
-</br>
-
 <p>
   <img src="./assets/images/About.png" alt="About" width="100%" />
 </p>
